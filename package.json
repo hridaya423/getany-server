@@ -18,7 +18,7 @@
     "medusa-payment-manual": "^1.0.16",
     "medusa-payment-stripe": "^1.1.44",
     "medusa-plugin-meilisearch": "^2.0.7",
-    "typeorm": "^0.3.28"
+    "typeorm": "^1.0.0"
   },
   "repository": "https://github.com/medusajs/medusa-starter-default.git",
   "keywords": [
